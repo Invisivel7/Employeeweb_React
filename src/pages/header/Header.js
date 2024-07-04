@@ -1,4 +1,3 @@
-const { Navbar } = require("react-bootstrap")
 
 import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Container";
@@ -21,3 +20,5 @@ const Header = () =>{
         </>
     )
 }
+
+export default Header;
