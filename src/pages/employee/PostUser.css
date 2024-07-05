@@ -6,18 +6,19 @@
     height: 90vh;
 }
 
-.center-form form{
+.center-form Form{
     max-width: 400px;
     width: 100%;
     padding: 20px;
     border: 1px solid #fff;
-    background-color: #fff;
+    background-color: rgb(70, 66, 66);
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
 
-.center-form form .form-control{
+.center-form Form .form-control{
+    background-color: #cec8c8;
     margin-bottom: 20px;
     padding: 10px;
 }

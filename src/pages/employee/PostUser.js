@@ -44,7 +44,7 @@ const PostUser = () => {
     return(
         <>
             <div className="center-form">
-                 <h1>Post New Employee</h1>
+                 <h6>New Employee</h6>
                 <Form onSubmit={handleSubmit}>
                     <Form.Group controlId="formBasicName">
                         <Form.Control
