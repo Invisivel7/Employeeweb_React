@@ -41,7 +41,7 @@ const Dashboard = () =>{
         }
     }
 
-    const handleUpdate = (employee) =>{
+    const handleUpdate = (employeeId) =>{
         navigate(`/employee/${employeeId}`);
     }
 

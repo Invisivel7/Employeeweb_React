@@ -5,7 +5,7 @@ import Header from "./pages/header/Header";
 import Dashboard from "./pages/dashboard/Dashboard";
 import PostUser from './pages/employee/PostUser';
 import NoMatch from './pages/noMatch/NoMatch';
-import PostUser from './pages/employee/UpdateUser';
+import UpdateUser from './pages/employee/UpdateUser';
 
 function App() {
   return (
